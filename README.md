@@ -15,7 +15,7 @@ git clone https://github.com/wollydev24/UselessPyScripts
 ```
 cd UselessPyScripts
 ```
-### Runnin script
+### Running script
 ```
 py(thon3) {script}
 ```
