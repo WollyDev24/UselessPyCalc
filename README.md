@@ -5,7 +5,9 @@
 This is a repo for Useless Python scripts that do exactly nothing, just for Fun ofc ^^
 
 Current Scripts
- - Useless Calculator
+ - Useless Calculator   (calc.py)
+ - Useless Ai chatbot   (ai.py)
+ - Useless Progress Bar (progress.py)
 
 ### Cloing 
 ```
